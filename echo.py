@@ -1,3 +1,5 @@
+# Echo application for Git practice
+# Usage: python echo.py [--s]
 import sys
 
 def echo():
