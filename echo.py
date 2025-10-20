@@ -5,8 +5,6 @@ def echo():
 
     message = input("Please enter something: ")
 
-    message = input("Please enter something: ")
-
     print(message.upper() if shout else message)
 
 if __name__ == "__main__":
